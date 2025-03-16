@@ -1,6 +1,6 @@
 # Roadmap to AI Engineering🛠️
-  
-Welcome to the **AI Engineering roadmap**!  It has been compiled to help software engineers and non-engineers build production-grade AI applications from scratch. 
+
+Generative AI is experiencing rapid growth, and this repository serves as a comprehensive hub on generative AI research,It has been compiled to help software engineers and non-engineers build production-grade AI applications from scratch. 
 
 <br>
 
