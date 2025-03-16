@@ -1,18 +1,21 @@
-# AI Engineer Toolkit 🛠️
+# Roadmap to AI Engineering🛠️
   
-Welcome to the **AI Engineer Toolkit**! 
-
-Designed to help software engineers and non-engineers build production-grade AI applications from scratch. 
-  
-You will find every popular framework, tool, and resource to ship one AI project at a time!
-
+Welcome to the **AI Engineering roadmap**!  It has been compiled to help software engineers and non-engineers build production-grade AI applications from scratch. 
 
 <br>
 
 ## Getting Started
 
-- Check out example projects inside the [sandbox](./sandbox). 
+Check out example projects inside the [sandbox](./sandbox). 
   
+
+## Learning AI Engineering from scratch 🏗️
+
+### 1. Python Programming Language -1 Month
+### 2. Machine Learning and Natural Language Processing -1 Month
+### 3. Basic Deep Learning Concepts - 1 Month
+### 4. Advanced NLP Concepts - 1 Month
+
 
 <br>
 
