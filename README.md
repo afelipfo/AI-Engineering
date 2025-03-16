@@ -11,14 +11,8 @@ You will find every popular framework, tool, and resource to ship one AI project
 
 ## Getting Started
 
-- If you are **new to software engineering** check out the fundamentals folder.  
+- Check out example projects inside the [sandbox](./sandbox). 
   
-- If you need **inspiration**, check out example projects inside the [sandbox](./sandbox). 
-  
-- If you are **ready to build**, check out the table below.
-  
-- If you want **more guidance**, check out the upcoming [AI Engineering Bootcamp](https://dub.sh/Z0JHySz) that starts on March 10th, 2025.  
-
 
 <br>
 
